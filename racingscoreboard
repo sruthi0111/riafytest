@@ -1,0 +1,75 @@
+#include<stdio.h>
+#include<con.h>
+string vettel=a[5];
+string hamilton=b[6];
+int score;
+int a[5];
+int b[6];
+void main()
+{
+printf("lap timings of vettel:");
+scanf("%d",&a);
+printf("lap timings of hamilton:");
+scanf("%d",&b);
+
+if (a<b )
+{
+printf("Vettel:10",&a);
+printf("Hamilton:-2",&b);
+}
+else
+{
+printf("Vettel:-2",&a);
+printf("Hamilton:10",&b);
+}
+if(arrayb[6]!=arraya[5]
+{
+
+
+a=a-2;
+b=b+10;
+printf("Vettel:",&a);
+printf("Hamilton:",&b);
+}
+if (a>b){
+printf("vettel:",&a);
+printf("hamilton:",&b);
+}
+else{
+printf("hamilton":,&b);
+printf("vettel:",&a);
+}
+
+getch();
+}
+
+
+
+
+
+
+
+qstn 2
+
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int keymod[4]={750,600,680,900};
+int mousemod[3]={400,250,650};
+int budget=1300;
+int limit=1300;
+if(keymod+mousemod==1300)
+{
+printf("budget is okay",&limit);
+}
+else
+{
+printf("budget is not satisfied");
+}
+getch();
+}
+
+
+
+
